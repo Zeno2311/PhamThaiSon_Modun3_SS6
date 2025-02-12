@@ -17,6 +17,11 @@ h1{
 
 .thanhphan{
     margin-left: 35px;
+    font-weight: bold;
+}
+
+.bb{
+    border-radius: 5px;
 }
 
 .dangky{
@@ -27,4 +32,5 @@ h1{
     width: 173px;
     height: 25px;
     background-color: #007BFF;
+    border: none;
 }
